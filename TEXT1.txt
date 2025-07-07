@@ -1,1 +1,1 @@
-Creating a text 1 .txt 
+Accessing the txt file right now
